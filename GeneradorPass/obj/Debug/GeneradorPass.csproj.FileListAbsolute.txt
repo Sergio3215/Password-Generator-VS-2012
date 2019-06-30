@@ -1,0 +1,9 @@
+c:\users\sergio\documents\visual studio 2012\Projects\GeneradorPass\GeneradorPass\bin\Debug\GeneradorPass.exe.config
+c:\users\sergio\documents\visual studio 2012\Projects\GeneradorPass\GeneradorPass\bin\Debug\GeneradorPass.exe
+c:\users\sergio\documents\visual studio 2012\Projects\GeneradorPass\GeneradorPass\bin\Debug\GeneradorPass.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\GeneradorPass\GeneradorPass\obj\Debug\GeneradorPass.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2012\Projects\GeneradorPass\GeneradorPass\obj\Debug\GeneradorPass.Form1.resources
+c:\users\sergio\documents\visual studio 2012\Projects\GeneradorPass\GeneradorPass\obj\Debug\GeneradorPass.Properties.Resources.resources
+c:\users\sergio\documents\visual studio 2012\Projects\GeneradorPass\GeneradorPass\obj\Debug\GeneradorPass.csproj.GenerateResource.Cache
+c:\users\sergio\documents\visual studio 2012\Projects\GeneradorPass\GeneradorPass\obj\Debug\GeneradorPass.exe
+c:\users\sergio\documents\visual studio 2012\Projects\GeneradorPass\GeneradorPass\obj\Debug\GeneradorPass.pdb
